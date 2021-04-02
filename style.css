@@ -36,6 +36,14 @@ div{
   border-radius: 5px;
 }
 
+dt:hover{
+  background-color: red;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 300px;
+  height: 30px;
+}
+
 a{
   color: black;
   text-decoration: none;
