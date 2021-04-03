@@ -49,7 +49,7 @@ a{
   text-decoration: none;
 }
 
-img{
+.foto{
   margin-left: auto;
   margin-right: auto;
   display:block;
@@ -58,4 +58,17 @@ img{
   border-radius: 100%;
   transform: translateY(-50%);
   border: 8px solid white;
+}
+
+.icone-git{
+  width:15px;
+  height:15px;
+  padding-top: 7px;
+  padding-right: 3px;
+}
+
+footer {
+  margin-left: auto;
+  margin-right: auto;
+  display: table;
 }
